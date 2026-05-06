@@ -31,7 +31,7 @@
   </a>
 </p>
 
-📍 Kottayam, Kerala, India &nbsp;|&nbsp; 📞 +91-7736198942
+📍 Kottayam, Kerala, India
 
 </div>
 
