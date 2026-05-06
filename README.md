@@ -115,15 +115,6 @@ ask_me_about: [ "Figma", "UI/UX", "React", "Frontend" ]
 
 ---
 
-<!-- Activity Graph -->
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aevlin&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
 <!-- Featured Projects -->
 ### 🚀 Featured Projects
 
