@@ -131,10 +131,8 @@ ask_me_about: [ "Figma", "UI/UX", "React", "Frontend" ]
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌐 **[aevlin.me](https://aevlin.me)** | Personal portfolio with case studies & design work | HTML · CSS · JS · Vercel |
-| 🏠 **PG Connect** | Accommodation finder with interactive map search | HTML · CSS · JS · Bootstrap · PHP · MySQL · Leaflet.js |
-| 🏷️ **ACM Women's Chapter Brand** | Logo & full visual identity built from scratch | Figma · Photoshop |
-| 🎙️ **TEDx AJCE** | Complete event visual design & digital collateral | Figma · Adobe CC |
+| 🌐 **[aevlin.me](https://aevlin.me)** | Personal portfolio showcasing UI/UX case studies & design work | HTML · CSS · JS · Vercel |
+| 🏠 **PG Connect** | Accommodation finder platform with interactive map search for students & professionals | HTML · CSS · JS · Bootstrap · PHP · MySQL · Leaflet.js |
 
 </div>
 
@@ -185,12 +183,8 @@ ask_me_about: [ "Figma", "UI/UX", "React", "Frontend" ]
 
 <br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aevlin/aevlin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aevlin/aevlin/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aevlin/aevlin/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<!-- Pac-Man Contribution Grid -->
+<img src="https://pacman-contribution.vercel.app/api/pacman?username=aevlin&bg=0D1117&pacman_color=A78BFA&dot_color=ffffff&eaten_color=302b63" width="100%" alt="Pac-Man contribution graph"/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
