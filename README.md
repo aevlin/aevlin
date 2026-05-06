@@ -55,7 +55,7 @@ current_focus:
   - Crafting end-to-end digital products
   - Leading design teams & visual identities
   - Building beautiful & functional interfaces
-ask_me_about: [ "Figma", "UI/UX", "React", "Frontend" ]
+ask_me_about: [ "Figma", "UI/UX", "Graphic Designing, "Frontend" ]
 ```
 
 <br clear="right"/>
